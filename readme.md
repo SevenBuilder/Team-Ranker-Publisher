@@ -271,7 +271,7 @@ For common issues, please check our [troubleshooting guide](https://docs.sevenbu
 
 ---
 
-`<div align="center">
+<div align="center">
 <p>Made with ❤️ by the SevenBuilder Team</p>
 <p>
   <a href="https://twitter.com/sevenbuilder">Twitter</a> •
@@ -279,7 +279,7 @@ For common issues, please check our [troubleshooting guide](https://docs.sevenbu
   <a href="https://sevenbuilder.com">Website</a>
 </p>
 </div>
-````This comprehensive README includes:
+This comprehensive README includes:
 
 1. **Complete Structure**:
 
