@@ -51,6 +51,7 @@ npm install
 # Start development mode
 npm run dev
 
+```
 🖥️ Usage
 Authentication
 
