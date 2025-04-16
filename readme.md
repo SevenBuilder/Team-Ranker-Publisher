@@ -1,10 +1,23 @@
 # Team Ranker Desktop Application
 
+<div align="center">
+
 ![Team Ranker](https://img.shields.io/badge/version-1.2.5-blue.svg) 
 ![Electron](https://img.shields.io/badge/Built%20with-Electron-47848F.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A feature-rich desktop application for SEO automation and project management, designed to streamline backlink creation, team collaboration, and digital marketing workflows.
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=200&width=200" alt="Team Ranker Logo" width="200px" />
+
+**A feature-rich desktop application for SEO automation and project management, designed to streamline backlink creation, team collaboration, and digital marketing workflows.**
+
+[Installation](#%EF%B8%8F-installation) • 
+[Features](#-features) • 
+[Usage](#%EF%B8%8F-usage) • 
+[Development](#%EF%B8%8F-development) • 
+[Contributors](#-contributors) • 
+[Support](#-support)
+
+</div>
 
 ## 🌟 Features
 
@@ -15,19 +28,19 @@ A feature-rich desktop application for SEO automation and project management, de
   - Interactive charts for project analytics
 
 ### ⚡ Automation Engine
-- Playwright-based workflow automation
-- Multi-step website processing with:
+- **Playwright-based workflow automation**
+- **Multi-step website processing with:**
   - Captcha solving (2Captcha/CapMonster)
   - Email verification workflows
   - Smart element detection & interaction
-- Custom action support with retry logic
+- **Custom action support with retry logic**
 
 ### 🔒 Security & Integration
-- Captcha solving integration
+- **Captcha solving integration**
   - Auto-detection for ReCaptcha/HCaptcha
   - Balance monitoring for services
   - Fallback provider support
-- Proxy management with:
+- **Proxy management with:**
   - Rotation and validation
   - Multiple protocol support
   - Performance metrics
@@ -39,102 +52,21 @@ A feature-rich desktop application for SEO automation and project management, de
 - Auto-update functionality
 - Cross-platform support (Windows/macOS/Linux)
 
+<div align="center">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=400&width=800" alt="Team Ranker Dashboard" width="800px" />
+</div>
+
 ## 🛠️ Installation
 
 ```bash
 # Clone repository
 git clone https://github.com/SevenBuilder/Team-Ranker-App.git
 
+# Navigate to project directory
+cd Team-Ranker-App
+
 # Install dependencies
 npm install
 
 # Start development mode
 npm run dev
-
-```
-🖥️ Usage
-Authentication
-
-System tray integrated login
-
-Deep link session management
-
-Role-based access control
-
-Project Creation
-
-javascript
-Copy
-// Example project template
-{
-  "name": "SEO Backlink Campaign",
-  "websites": [
-    {
-      "url": "https://example.com",
-      "steps": [
-        { "action": "navigate", "url": "/register" },
-        { "action": "fill", "selector": "#email", "value": "{{tempEmail}}" }
-      ]
-    }
-  ],
-  "schedule": {
-    "mode": "recurring",
-    "interval": "daily"
-  }
-}
-Automation Monitoring
-
-Real-time execution logs
-
-Visual progress indicators
-
-Error diagnosis toolkit
-
-Cost consumption analytics
-
-🛠️ Development
-Tech Stack
-Core: Electron 28 + React 19
-
-Automation: Playwright 1.40
-
-State: SWR 2.0 + Zustand
-
-UI: Shadcn UI + Framer Motion
-
-Database: MongoDB 6 + Mongoose
-
-Scripts
-bash
-Copy
-npm run make       # Build platform-specific packages
-npm run analyze    # Bundle size analysis
-npm run lint       # Code quality check
-npm run test       # Run automation test suite
-📄 License
-Proprietary License © 2025 SevenBuilder. All rights reserved.
-
-Note: This application contains commercial components and is not open-source. Unauthorized distribution prohibited.
-
-👥 Contributors
-Rakibul Islam (@CodeWithRakibul)
-Core Automation Architect
-
-Prominhaj (@prominhaj)
-Lead Frontend Developer
-
-Need Support?
-Contact our engineering team at support@sevenbuilder.com
-
-
-This professional README:
-1. Highlights enterprise features
-2. Provides clear setup instructions
-3. Includes configuration examples
-4. Shows usage patterns
-5. Documents system requirements
-6. Maintains commercial licensing notices
-7. Credits core contributors
-8. Uses security-conscious examples
-9. Maintains brand consistency
-10. Includes multiple access points for support
