@@ -218,28 +218,16 @@ Note: This application contains commercial components and is not open-source. Un
 `<table>
   <tr>
     <td align="center">
-      <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=100&width=100" width="100px" alt="Rakibul Islam"/><br />
+      <img src="https://avatars.githubusercontent.com/u/34921044?v=4" width="100px" alt="Rakibul Islam"/><br />
       <b>Rakibul Islam</b><br />
       <sub>@CodeWithRakibul</sub><br />
       <sub>Core Automation Architect</sub>
     </td>
     <td align="center">
-      <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=100&width=100" width="100px" alt="Prominhaj"/><br />
+      <img src="https://avatars.githubusercontent.com/u/139013851?s=400&u=f221ecaaa14d99cd4e3625e2c9cafd180eacf774&v=4" width="100px" alt="Prominhaj"/><br />
       <b>Prominhaj</b><br />
       <sub>@prominhaj</sub><br />
       <sub>Lead Frontend Developer</sub>
-    </td>
-    <td align="center">
-      <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=100&width=100" width="100px" alt="Sarah Johnson"/><br />
-      <b>Sarah Johnson</b><br />
-      <sub>@sarahdev</sub><br />
-      <sub>UX Designer</sub>
-    </td>
-    <td align="center">
-      <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=100&width=100" width="100px" alt="Michael Chen"/><br />
-      <b>Michael Chen</b><br />
-      <sub>@mchen</sub><br />
-      <sub>Backend Developer</sub>
     </td>
   </tr>
 </table>`## 🤝 Support
