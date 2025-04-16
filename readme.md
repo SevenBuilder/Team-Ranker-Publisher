@@ -27,12 +27,12 @@
 
 - [Team Ranker Desktop Application](#team-ranker-desktop-application)
   - [🌟 Features](#-features)
-  - [🛠️ Installation](#️-installation)
-  - [🖥️ Usage](#️-usage)
-  - [🛠️ Development](#️-development-1)
+  - [🛠️ Installation](#%ef%b8%8f-installation)
+  - [💻 Usage](#%ef%b8%8f-usage)
+  - [🛠️ Development](#%ef%b8%8f-development-1)
   - [📊 Performance](#-performance)
   - [🔄 Changelog](#-changelog)
-  - [🗺️ Roadmap](#️-roadmap)
+  - [🗜️ Roadmap](#%ef%b8%8f-roadmap)
   - [❓ FAQ](#-faq)
   - [📄 License](#-license)
   - [👥 Contributors](#-contributors)
@@ -76,7 +76,7 @@
   - Geolocation filtering
   - Health monitoring
 
-### 🖥️ User Experience
+### 💻 User Experience
 - **Modern UI with dark/light themes**
   - Customizable color schemes
   - Responsive layouts
@@ -134,7 +134,6 @@ Team Ranker is optimized for performance across all supported platforms:
 - **Startup Time**: <3 seconds on SSD, <5 seconds on HDD
 - **Automation Speed**: Up to 60% faster than manual execution
 
-
 ## 🔄 Changelog
 
 ### Version 1.2.5 (Current)
@@ -145,7 +144,6 @@ Team Ranker is optimized for performance across all supported platforms:
 - Enhanced dark mode contrast
 - Added new project templates
 
-
 ### Version 1.2.0
 
 - Introduced multi-browser support
@@ -153,7 +151,6 @@ Team Ranker is optimized for performance across all supported platforms:
 - Improved error recovery mechanisms
 - Enhanced reporting dashboard
 - Fixed multiple UI bugs
-
 
 ### Version 1.1.0
 
@@ -163,10 +160,7 @@ Team Ranker is optimized for performance across all supported platforms:
 - Added system tray integration
 - Fixed stability issues on Linux
 
-
-## 🗺️ Roadmap
-
-Our development roadmap for upcoming releases:
+## 🗜️ Roadmap
 
 ### Q2 2025
 
@@ -174,13 +168,11 @@ Our development roadmap for upcoming releases:
 - Enhanced reporting and analytics
 - Mobile companion app
 
-
 ### Q3 2025
 
 - Team collaboration features
 - Cloud synchronization
 - API integrations marketplace
-
 
 ### Q4 2025
 
@@ -188,24 +180,29 @@ Our development roadmap for upcoming releases:
 - Custom plugin system
 - Enterprise SSO support
 
-
 ## ❓ FAQ
 
 ### General Questions
 
-**Q: Is Team Ranker free to use?**A: Team Ranker offers a free trial with limited features. Full functionality requires a subscription plan.
+**Q: Is Team Ranker free to use?**  
+A: Team Ranker offers a free trial with limited features. Full functionality requires a subscription plan.
 
-**Q: Which operating systems are supported?**A: Team Ranker supports Windows 10/11, macOS 12+, and major Linux distributions.
+**Q: Which operating systems are supported?**  
+A: Team Ranker supports Windows 10/11, macOS 12+, and major Linux distributions.
 
-**Q: Can I use Team Ranker offline?**A: Basic functionality works offline, but automation features require internet connectivity.
+**Q: Can I use Team Ranker offline?**  
+A: Basic functionality works offline, but automation features require internet connectivity.
 
 ### Technical Questions
 
-**Q: How does the captcha solving work?**A: Team Ranker integrates with popular captcha solving services like 2Captcha and CapMonster to automatically solve captchas during automation.
+**Q: How does the captcha solving work?**  
+A: Team Ranker integrates with popular captcha solving services like 2Captcha and CapMonster to automatically solve captchas during automation.
 
-**Q: Is my data secure?**A: Yes, all sensitive data is encrypted locally and never sent to our servers without explicit permission.
+**Q: Is my data secure?**  
+A: Yes, all sensitive data is encrypted locally and never sent to our servers without explicit permission.
 
-**Q: Can I migrate from other automation tools?**A: Yes, we provide import tools for several popular automation platforms.
+**Q: Can I migrate from other automation tools?**  
+A: Yes, we provide import tools for several popular automation platforms.
 
 ## 📄 License
 
@@ -215,22 +212,28 @@ Note: This application contains commercial components and is not open-source. Un
 
 ## 👥 Contributors
 
-`<table>
+<table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/34921044?v=4" width="100px" alt="Rakibul Islam"/><br />
-      <b>Rakibul Islam</b><br />
-      <sub>@CodeWithRakibul</sub><br />
-      <sub>Core Automation Architect</sub>
+      <a href="https://github.com/CodeWithRakibul" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/34921044?v=4" width="100px" alt="Rakibul Islam"/><br />
+        <b>Rakibul Islam</b><br />
+        <sub>@CodeWithRakibul</sub><br />
+        <sub>Core Automation Architect</sub>
+      </a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/139013851?s=400&u=f221ecaaa14d99cd4e3625e2c9cafd180eacf774&v=4" width="100px" alt="Prominhaj"/><br />
-      <b>Prominhaj</b><br />
-      <sub>@prominhaj</sub><br />
-      <sub>Lead Frontend Developer</sub>
+      <a href="https://github.com/prominhaj" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/139013851?s=400&u=f221ecaaa14d99cd4e3625e2c9cafd180eacf774&v=4" width="100px" alt="Prominhaj"/><br />
+        <b>Prominhaj</b><br />
+        <sub>@prominhaj</sub><br />
+        <sub>Lead Frontend Developer</sub>
+      </a>
     </td>
   </tr>
-</table>`## 🤝 Support
+</table>
+
+## 🤝 Support
 
 Need help? We're here for you!
 
@@ -241,17 +244,15 @@ Need help? We're here for you!
 - **Discord**: [Join our community](https://discord.gg/sevenbuilder)
 - **Office Hours**: Monday-Friday, 9am-5pm EST
 
-
 ### Support Tiers
 
-| Feature | Community | Professional | Enterprise
-|-----|-----|-----|-----
-| Email Support | ✅ | ✅ | ✅
-| Response Time | 48 hours | 24 hours | 4 hours
-| Phone Support | ❌ | ❌ | ✅
-| Custom Development | ❌ | ✅ | ✅
-| Dedicated Agent | ❌ | ❌ | ✅
-
+| Feature | Community | Professional | Enterprise |
+|--------|-----------|--------------|------------|
+| Email Support | ✅ | ✅ | ✅ |
+| Response Time | 48 hours | 24 hours | 4 hours |
+| Phone Support | ❌ | ❌ | ✅ |
+| Custom Development | ❌ | ✅ | ✅ |
+| Dedicated Agent | ❌ | ❌ | ✅ |
 
 ### Troubleshooting
 
@@ -267,56 +268,3 @@ For common issues, please check our [troubleshooting guide](https://docs.sevenbu
   <a href="https://sevenbuilder.com">Website</a>
 </p>
 </div>
-This comprehensive README includes:
-
-1. **Complete Structure**:
-
-1. Detailed table of contents
-2. Expanded feature descriptions
-3. Comprehensive installation options
-4. Thorough usage instructions
-5. Complete development information
-
-
-
-2. **Additional Sections**:
-
-1. Performance metrics
-2. Detailed changelog
-3. Future roadmap
-4. Frequently asked questions
-5. Expanded contributor section
-6. Detailed support information
-
-
-
-3. **Enhanced Formatting**:
-
-1. Tables for structured information
-2. Code blocks with syntax highlighting
-3. Visual hierarchy with headings
-4. Consistent emoji usage for section identification
-5. Centered header and footer
-
-
-
-4. **Visual Elements**:
-
-1. Placeholder images for screenshots
-2. Badges for status information
-3. Contributor avatars
-4. Navigation links
-
-
-
-
-
-This README provides a professional, comprehensive, and user-friendly documentation for your Team Ranker Desktop Application that will help users understand the product, how to use it, and how to get support.
-
-`<Actions>
-  <Action name="Add actual screenshots" description="Replace placeholder images with real application screenshots" />
-  <Action name="Create CONTRIBUTING.md" description="Develop contribution guidelines for developers" />
-  <Action name="Add installation videos" description="Create tutorial videos for installation process" />
-  <Action name="Develop troubleshooting guide" description="Create a detailed troubleshooting guide for common issues" />
-  <Action name="Set up documentation site" description="Implement the docs.sevenbuilder.com site referenced in the README" />
-</Actions>`
