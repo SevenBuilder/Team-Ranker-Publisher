@@ -261,7 +261,7 @@ For common issues, please check our [troubleshooting guide](https://docs.stackpr
 ---
 
 <div align="center">
-<p>Made with ❤️ by the stackprovider Team</p>
+<p>Made with ❤️ by the StackProvider Team</p>
 <p>
   <a href="https://twitter.com/stackprovider">Twitter</a> •
   <a href="https://github.com/stackproviders">GitHub</a> •
