@@ -113,7 +113,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/SevenBuilder/Team-Ranker-App.git
+git clone https://github.com/stackproviders/Team-Ranker-App.git
 
 # Navigate to project directory
 cd Team-Ranker-App
@@ -206,7 +206,7 @@ A: Yes, we provide import tools for several popular automation platforms.
 
 ## 📄 License
 
-Proprietary License © 2025 SevenBuilder. All rights reserved.
+Proprietary License © 2025 stackprovider. All rights reserved.
 
 Note: This application contains commercial components and is not open-source. Unauthorized distribution prohibited.
 
@@ -239,9 +239,9 @@ Need help? We're here for you!
 
 ### Contact Methods
 
-- **Email**: [support@sevenbuilder.com](mailto:support@sevenbuilder.com)
-- **Documentation**: [docs.sevenbuilder.com](https://docs.sevenbuilder.com)
-- **Discord**: [Join our community](https://discord.gg/sevenbuilder)
+- **Email**: [support@stackprovider.com](mailto:support@stackprovider.com)
+- **Documentation**: [docs.stackprovider.com](https://docs.stackprovider.com)
+- **Discord**: [Join our community](https://discord.gg/stackprovider)
 - **Office Hours**: Monday-Friday, 9am-5pm EST
 
 ### Support Tiers
@@ -256,15 +256,15 @@ Need help? We're here for you!
 
 ### Troubleshooting
 
-For common issues, please check our [troubleshooting guide](https://docs.sevenbuilder.com/troubleshooting).
+For common issues, please check our [troubleshooting guide](https://docs.stackprovider.com/troubleshooting).
 
 ---
 
 <div align="center">
-<p>Made with ❤️ by the SevenBuilder Team</p>
+<p>Made with ❤️ by the stackprovider Team</p>
 <p>
-  <a href="https://twitter.com/sevenbuilder">Twitter</a> •
-  <a href="https://github.com/SevenBuilder">GitHub</a> •
-  <a href="https://sevenbuilder.com">Website</a>
+  <a href="https://twitter.com/stackprovider">Twitter</a> •
+  <a href="https://github.com/stackproviders">GitHub</a> •
+  <a href="https://stackprovider.com">Website</a>
 </p>
 </div>
